@@ -1,0 +1,6 @@
+export const textos = {
+    nparrafos:3,
+    P1:'Como desarrollador web experimentado con experiencia profesional, me apasiona crear sitios web y aplicaciones limpios, eficientes y fáciles de usar. Tengo un sólido conocimiento de las tecnologías de desarrollo web y lenguajes de programación como HTML, CSS, JavaScript, React Js y frameworks complementarios como Gatsby, Bootstrap y Bootswatch, y estoy constantemente ampliando mis conocimientos y manteniéndome actualizado con las últimas tendencias. y mejores prácticas.',
+    P2:'En mis funciones anteriores, he demostrado mi capacidad para trabajar en colaboración con equipos multifuncionales, comunicarme de manera efectiva con clientes y partes interesadas y entregar productos de alta calidad dentro de plazos ajustados. Me enorgullezco de mi atención al detalle y de mi compromiso de producir código bien estructurado, mantenible y escalable.',
+    P3:'Además de mis habilidades técnicas, también soy altamente adaptable, creativo y orientado a soluciones. Disfruto abordando problemas complejos y encontrando formas innovadoras de superar los desafíos. Ya sea que esté trabajando en un proyecto pequeño o en una aplicación empresarial a gran escala, estoy comprometido a brindar resultados que superen las expectativas e impulsen el éxito empresarial. :)'
+}
